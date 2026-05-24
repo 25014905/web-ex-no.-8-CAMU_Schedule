@@ -216,7 +216,8 @@ index.html
 ```
 
 ## OUTPUT:
-![Output Screenshot](camapp/output.png)
+
+![alt text](camapp/output.png)
 
 DEVELOPED BY : MIRDULA D
 REGISTRATION NO. 212225040234
