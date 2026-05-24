@@ -217,9 +217,6 @@ index.html
 
 ## OUTPUT:
 
-![Output](output.png)
-
-
 DEVELOPED BY : MIRDULA D
 REGISTRATION NO. 212225040234
 
