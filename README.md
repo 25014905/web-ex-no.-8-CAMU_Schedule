@@ -216,6 +216,7 @@ index.html
 ```
 
 ## OUTPUT:
+<img width="1407" height="725" alt="Screenshot 2026-05-24 221727" src="https://github.com/user-attachments/assets/c39bdb06-8d9e-44ef-b8ba-0788482f1f2d" />
 
 DEVELOPED BY : MIRDULA D
 REGISTRATION NO. 212225040234
